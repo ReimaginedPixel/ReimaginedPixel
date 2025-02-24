@@ -9,11 +9,15 @@ I'm passionate about Minecraft server development, game design, and creating imm
 - 🖥️ Learning Java for better game mechanics and performance.
 - 🔄 Optimizing server performance for smoother gameplay.
 
+### 🎯 Want to Learn:
+- ☕ Java
+- 🐍 Python
+
 ### 💡 Collaboration:
 - 💬 Open to working on Minecraft plugins, game servers, or community-building projects.
 
 ### 📫 Where to find me:
-You can reach me via **GitHub, YouTube, or SpigotMC**.
+[🌐 Linktree - All My Links](https://linktr.ee/ReimaginedPixel)
 
 ### 🛠 Skills:
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
@@ -21,3 +25,6 @@ You can reach me via **GitHub, YouTube, or SpigotMC**.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/-SQL-lightgray?style=flat-square&logo=mysql)
+
+### 🌟 Fun Fact:
+⚡ I once took a two-year break from YouTube but came back stronger and more inspired!
