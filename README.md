@@ -1,4 +1,4 @@
-👋 Hi, I’m @ReimaginedPixel
+# 👋 Hi, I’m @ReimaginedPixel
 👀 I’m interested in Minecraft server development, game design, and creating immersive experiences for players.
 🌱 I’m currently learning advanced server plugins, Java development, and optimization techniques for Minecraft servers.
 💞️ I’m looking to collaborate on Minecraft plugins, game servers, or community-building projects.
