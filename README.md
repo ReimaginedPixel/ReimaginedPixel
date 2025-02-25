@@ -26,5 +26,3 @@ I'm passionate about Minecraft server development, game design, and creating imm
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/-SQL-lightgray?style=flat-square&logo=mysql)
 
-### 🌟 Fun Fact:
-⚡ I once took a two-year break from YouTube but came back stronger and more inspired!
