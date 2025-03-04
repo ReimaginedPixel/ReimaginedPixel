@@ -17,7 +17,7 @@ I'm passionate about Minecraft server development, game design, and creating imm
 - 💬 Open to working on Minecraft plugins, game servers, or community-building projects.
 
 ### 📫 Where to find me:
-- 💬 Discord: **UrsusEnjoyer**
+- 💬 Discord: **reimaginedpixel**
 [🌐 Linktree - All My Links](https://linktr.ee/ReimaginedPixel)
 
 ### 🛠 Skills:
