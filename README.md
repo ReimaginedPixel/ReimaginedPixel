@@ -18,7 +18,7 @@ I'm passionate about Minecraft server development, game design, and creating imm
 
 ### 📫 Where to find me:
 - 💬 Discord: **reimaginedpixel**
-[🌐 Linktree - All My Links](https://linktr.ee/ReimaginedPixel)
+- [🌐 Linktree - All My Links](https://linktr.ee/ReimaginedPixel)
 
 ### 🛠 Skills:
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
