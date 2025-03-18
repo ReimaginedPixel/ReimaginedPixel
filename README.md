@@ -31,4 +31,5 @@ I'm passionate about Minecraft server development, game design, and creating imm
 ### 🖥️ Apps I use:
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Dev-C++](https://img.shields.io/badge/Dev--C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
