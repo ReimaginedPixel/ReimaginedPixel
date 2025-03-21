@@ -27,6 +27,7 @@ I'm passionate about Minecraft server development, game design, and creating imm
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/-SQL-lightgray?style=flat-square&logo=mysql)
 ![VBA](https://img.shields.io/badge/-VBA-purple?style=flat-square&logo=microsoft-office)
+![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=gnu-bash)
 
 ### 🖥️ Apps I use:
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
