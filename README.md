@@ -15,6 +15,7 @@ I'm passionate about Minecraft server development, game design, and creating imm
 
 ### 💡 Collaboration:
 - 💬 Open to working on Minecraft plugins, game servers, or community-building projects.
+- 🗺️ Contribiuted to some wikis for polish translation.
 
 ### 📫 Where to find me:
 - 💬 Discord: **reimaginedpixel**
