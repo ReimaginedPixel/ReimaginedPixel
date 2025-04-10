@@ -2,12 +2,11 @@
 
 ## Minecraft Server Developer & Game Designer
 
-I'm passionate about Minecraft server development, game design, and creating immersive experiences for players. Currently, I'm expanding my knowledge in advanced server plugins, Java development, and optimization techniques to make Minecraft servers more efficient and enjoyable.
+I'm passionate about Minecraft server development, game design, and creating immersive experiences for players. Currently, I'm expanding my knowledge in advanced server plugins, Java development, to make Minecraft servers more fun and enjoyable.
 
 ### 🔥 What I'm working on:
 - ⚙️ Developing advanced Minecraft server plugins.
 - 🖥️ Learning Java for better game mechanics and performance.
-- 🔄 Optimizing server performance for smoother gameplay.
 
 ### 🎯 Want to Learn:
 - ☕ Java
