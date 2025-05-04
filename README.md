@@ -24,7 +24,7 @@ I'm passionate about Minecraft server development, game design, and creating imm
 
 ### 🎯 Want to Learn:
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-![Python](![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift)
 
 ### 🖥️ Apps I use:
