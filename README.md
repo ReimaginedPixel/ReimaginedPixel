@@ -33,6 +33,7 @@ I'm passionate about Minecraft server development, game design, and creating imm
 ![Dev-C++](https://img.shields.io/badge/Dev--C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReimaginedPixel&show_icons=true&theme=tokyonight) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReimaginedPixel&layout=compact&theme=tokyonight)
