@@ -83,7 +83,7 @@ When you die, the game closes. The launcher shows a final screen. It never opens
 <td valign="top" width="50%">
 
 <img src="./assets/gorkaguesser.png" alt="GorkaGuesser" width="70%"/><br/>
-[GórkaGuesser](https://gorkaguesser-recoded-production.up.railway.ap) is a GeoGuessr-style web game I built for my school.
+[GórkaGuesser](https://gorkaguesser-recoded-production.up.railway.app) is a GeoGuessr-style web game I built for my school.
 You get dropped into a 360° panorama somewhere on school grounds and have to guess where you are on a floor plan map.
 Built with Next.js 15, Tailwind, Prisma, and Zustand.
 Score validation happens server-side.
