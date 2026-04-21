@@ -7,7 +7,7 @@
 <tr>
 <td valign="top" width="50%">
 
-<img src="./assets/about_me.png" alt="About Me" width="40%"/><br/>
+<img src="./assets/about_me.png" alt="About Me" width="60%"/><br/>
 
 I'm a 16-year-old developer from Poland.
 Solo dev. I've been making Minecraft servers for over 6 years.
@@ -22,7 +22,7 @@ I make content about the things I build.
 </td>
 <td valign="top" width="50%">
 
-<img src="./assets/skills.png" alt="Skills" width="35%"/><br/>
+<img src="./assets/skills.png" alt="Skills" width="50%"/><br/>
 
 I write Java plugins for Minecraft. Been at it for 6+ years.
 I know HTML and CSS well enough to build something with them.
@@ -44,7 +44,7 @@ I use SQLite and MySQL depending on the project.
 <tr>
 <td valign="top" width="50%">
 
-<img src="./assets/reimaginedcraft.png" alt="ReimaginedCraft" width="50%"/><br/>
+<img src="./assets/reimaginedcraft.png" alt="ReimaginedCraft" width="70%"/><br/>
 
 [ReimaginedCraft](https://www.reimaginedcraft.net) is a medieval fantasy Minecraft survival server I've been building solo for over two years.
 I'm not copying an existing server. I'm building something I'd actually want to play.
@@ -55,7 +55,7 @@ I use ItemsAdder, MythicMobs, AuraSkills, and a dozen other plugins alongside my
 </td>
 <td valign="top" width="50%">
 
-<img src="./assets/freakysmp.png" alt="Freaky SMP" width="50%"/><br/>
+<img src="./assets/freakysmp.png" alt="Freaky SMP" width="70%"/><br/>
 
 [Freaky SMP](https://reimaginedpixel.github.io/FreakySmpWebsite/#players) started because I switched schools and wanted a way to get to know my new classmates.
 I set up a Minecraft server. People joined. It worked.
@@ -69,7 +69,7 @@ It wasn't a serious project. It was a community that formed around a server I ma
 <tr>
 <td valign="top" width="50%">
 
-<img src="./assets/protocolendfall.png" alt="Protocol Endfall" width="50%"/><br/>
+<img src="./assets/protocolendfall.png" alt="Protocol Endfall" width="70%"/><br/>
 
 PROTOCOL:ENDFALL is a standalone permadeath Minecraft experience.
 You get **one life.** If you die, you can **never play again.**
