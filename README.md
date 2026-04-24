@@ -57,7 +57,7 @@ I use ItemsAdder, MythicMobs, AuraSkills, and a dozen other plugins alongside my
 
 <img src="./assets/freakysmp.png" alt="Freaky SMP" width="70%"/><br/>
 
-[Freaky SMP](https://reimaginedpixel.github.io/FreakySmpWebsite/#players) started because I switched schools and wanted a way to get to know my new classmates.
+[Freaky SMP](https://reimaginedpixel.github.io/FreakySmpWebsite) started because I switched schools and wanted a way to get to know my new classmates.
 I set up a Minecraft server. People joined. It worked.
 At its peak it had 30+ players. Over time it attracted cheaters and it became kind of a meme to try and nuke it.
 That chaos is honestly part of what made it memorable.
