@@ -9,7 +9,7 @@
 
 <img src="./assets/about_me.png" alt="About Me" width="60%"/><br/>
 
-I'm a 16-year-old developer from Poland.
+I'm a developer from Poland.
 Solo dev. I've been making Minecraft servers for over 6 years.
 Started modding Minecraft before I knew what Java was.
 Most of my projects live and die on my own machine first.
