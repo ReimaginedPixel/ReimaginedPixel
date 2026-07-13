@@ -98,3 +98,5 @@ It started as a joke project. It became a real one.
 
 [![Discord](https://img.shields.io/badge/reimaginedpixel-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/reimaginedpixel)
 [![Linktree](https://img.shields.io/badge/linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/ReimaginedPixel)
+
+## https://konradkukula.dev/
