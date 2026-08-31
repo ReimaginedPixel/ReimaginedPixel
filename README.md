@@ -99,5 +99,4 @@ It started as a joke project. It became a real one.
 [![Discord](https://img.shields.io/badge/reimaginedpixel-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/reimaginedpixel)
 [![Linktree](https://img.shields.io/badge/linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/ReimaginedPixel)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/reimagineddev)
-
-## https://konradkukula.dev/
+[![Website](https://img.shields.io/badge/Website-konradkukula.dev-000000?style=flat-square&logo=dev.to&logoColor=white)](https://konradkukula.dev/)
