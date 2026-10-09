@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner1.png" alt="ReimaginedPixel Banner" width="80%"/>
+  <img src="./assets/reimagined_pixel_animated.gif" alt="ReimaginedPixel Banner" width="80%"/>
 </div>
 
 
