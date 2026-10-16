@@ -132,6 +132,55 @@ It started as a joke project. It became a real one.
 
 </td>
 </tr>
+<tr>
+<td valign="top" width="50%">
+
+<img src="./assets/gorkaapi.png" alt="GorkaAPI" width="70%"/><br/>
+
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-8A2BE2?style=flat-square)
+![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=flat-square&logo=openid&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-62B47A?style=flat-square)
+
+[GorkaAPI](https://gorkaapi.pl/) is one school account for apps built by students.\
+Verify your school email once, then sign in to connected apps with one click.
+
+<details>
+<summary>Read more</summary>
+
+Built around OAuth 2.0 and OpenID Connect, with PKCE required.\
+Students choose what each app can access and can revoke that access whenever they want.\
+Developers can connect their apps without building another registration form or password database.\
+Open source, free, and run by students.
+
+</details>
+
+[Website](https://gorkaapi.pl/) · [Documentation](https://gorkaapi.pl/docs)
+
+</td>
+<td valign="top" width="50%">
+
+<img src="./assets/fiverrtools.png" alt="Fiverr Tools — Dark Mode + Inbox Tags" width="70%"/><br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![Chromium](https://img.shields.io/badge/Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+
+Two extensions I built for Fiverr: [Dark Mode](https://github.com/ReimaginedPixel/fiverr-dark-mode) and [Inbox Tags](https://github.com/ReimaginedPixel/fiverr-inbox-tags).\
+A dark theme for the whole site, plus status tags and client tools to keep the inbox organized.
+
+<details>
+<summary>Read more</summary>
+
+**Dark Mode** converts Fiverr's styles into a dark theme while keeping its brand colors, images and videos intact. One click toggles it.\
+**Inbox Tags** adds custom statuses, reply flags, AI client summaries, deal scores, chat copying and exports for Claude Code.\
+They work separately, and Inbox Tags matches the dark theme when both are installed. AI features use your own OpenAI API key.
+
+</details>
+
+[Dark Mode](https://github.com/ReimaginedPixel/fiverr-dark-mode) · [Inbox Tags](https://github.com/ReimaginedPixel/fiverr-inbox-tags)
+
+</td>
+</tr>
 </table>
 
 ---
