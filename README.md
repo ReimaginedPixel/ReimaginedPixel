@@ -139,7 +139,6 @@ It started as a joke project. It became a real one.
 
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-8A2BE2?style=flat-square)
 ![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=flat-square&logo=openid&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source-62B47A?style=flat-square)
 
 [GorkaAPI](https://gorkaapi.pl/) is one school account for apps built by students.\
 Verify your school email once, then sign in to connected apps with one click.
@@ -163,7 +162,7 @@ Open source, free, and run by students.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
-![Chromium](https://img.shields.io/badge/Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-62B47A?style=flat-square)
 
 Two extensions I built for Fiverr: [Dark Mode](https://github.com/ReimaginedPixel/fiverr-dark-mode) and [Inbox Tags](https://github.com/ReimaginedPixel/fiverr-inbox-tags).\
 A dark theme for the whole site, plus status tags and client tools to keep the inbox organized.
