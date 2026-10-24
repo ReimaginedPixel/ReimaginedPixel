@@ -190,4 +190,6 @@ They work separately, and Inbox Tags matches the dark theme when both are instal
 > [![Discord](https://img.shields.io/badge/reimaginedpixel-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/reimaginedpixel)
 > [![Linktree](https://img.shields.io/badge/linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/ReimaginedPixel)
 > [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/reimagineddev)
-> [![Website](https://img.shields.io/badge/Website-konradkukula.dev-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://konradkukula.dev/)
+> 
+> [![MC Portfolio](https://img.shields.io/badge/MC_Portfolio-reimaginedpixel.me-FF8A1F?style=flat-square)](https://reimaginedpixel.me/)
+> [![Web Dev](https://img.shields.io/badge/Web_Dev-konradkukula.dev-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://konradkukula.dev/)
