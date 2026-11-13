@@ -20,6 +20,7 @@ I attend a technical high school in Poland. 🏫\
 I build things I'd actually want to play myself.\
 I've been editing videos almost as long as I've been coding.\
 I make content about the things I build.
+Im gay.
 
 </td>
 <td valign="top" width="50%">
